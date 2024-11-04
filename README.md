@@ -1,6 +1,6 @@
-**DreamLand Hotel Website**
+##DreamLand Hotel Website
 
-## Description
+# Description
 
 The **DreamLand Hotel** website is a project developed using **PHP**, **phpMyAdmin**, **HTML**, and **CSS**. This application efficiently manages hotel bookings, room availability, and customer information. 
 
